@@ -3,8 +3,8 @@
 ## G🦠Win
 This responsive website contains almost all the information relate to COVID-19.
 
-### Contributer
-**Alpha214**
+### Contributers
+Team : **Alpha214**
 |Name|Account|Who|
 |-|-|-|
 |Dhananjay Porwal | https://github.com/DhananjayPorwal | Leader|
