@@ -20,7 +20,7 @@ Team : **Alpha214**
 6. AAROGYA SETU app for smartphone.
 7. Helpline Number Available and Email support.
 8. Informative.
-9. Free Meal for patients (city-wise).
+9. Free Meal for patients(city-wise).
 10. PM-CARE-FUND link is attached for donation.
 11. Vaccination center near you.
 12. Safety Measures.
