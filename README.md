@@ -26,7 +26,7 @@ Team : **Alpha214**
 12. Safety Measures.
 13. WHO report for COVID19 with latest news related to it.
 14. Common assumption related to COVID19.
-15. Social Links of WHO for awarness.
+15. Social Links of WHO for awareness.
 
 ## Images
 
