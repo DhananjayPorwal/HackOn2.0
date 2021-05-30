@@ -11,6 +11,23 @@ Team : **Alpha214**
 |Devashish Shrimali|https://github.com/Devzsz | Member|
 |Gaurav Singh Saini|https://github.com/gauravsinghsaini | Member|
 
+## Problems Solved
+1. All Covid-19 Details Available at one place.
+2. Realtime vaccination dashboard(city-wise). 
+3. Book your vaccination slot.
+4. Verify Certificate.
+5. Medical Facilities available in your city.
+6. AAROGYA SETU app for smartphone.
+7. Helpline Number Available and Email support.
+8. Informative.
+9. Free Meal for patients (city-wise).
+10. PM-CARE-FUND link is attached for donation.
+11. Vaccination center near you.
+12. Safety Measures.
+13. WHO report for COVID19 with latest news related to it.
+14. Common assumption related to COVID19.
+15. Social Links of WHO for awarness.
+
 ## Images
 
 ![Front](https://raw.githubusercontent.com/DhananjayPorwal/HackOn2.0/main/Readme%20assets/images/1.png)
