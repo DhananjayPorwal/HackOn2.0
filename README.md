@@ -3,7 +3,7 @@
 ## G🦠Win
 This responsive website contains almost all the information relate to COVID-19.
 
-### Contributers
+### Contributors
 Team : **Alpha214**
 |Name|Account|Who|
 |-|-|-|
